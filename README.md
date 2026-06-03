@@ -38,7 +38,7 @@ CS grad from UCF — building at the intersection of AI, computer vision, and sy
 ### 🛸 Drone tracking evaluation sim
 Real-time computer vision pipeline to detect and track drones in occluded, high-clutter environments. Trained a custom YOLO model on synthetically generated data and integrated ByteTrack for multi-object tracking. Contributed to a C++ inference pipeline embedded inside Unreal Engine.
 
-`Python` `C++` `YOLO` `ByteTrack` `OpenCV` `Unreal Engine` → [repo link](#)
+`Python` `C++` `YOLO` `ByteTrack` `OpenCV` `Unreal Engine` → [repo link](https://github.com/Ethan-png1/Drone-tracking/tree/main)
 
 ---
 
