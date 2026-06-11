@@ -49,7 +49,7 @@ Automated pipeline that ingests live financial news via RSS, then routes headlin
 
 ---
 
-### 📐 Kalman filter object tracker &nbsp; ![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
+### 📐 Kalman filter object tracker 
 Kalman filter implemented from scratch in C++ to predict and correct object states in real time. Integrated with OpenCV to process video input and visualize tracked trajectories frame by frame.
 
 `C++` `OpenCV` `CMake` `Linear Algebra` → [repo link](https://github.com/Ethan-png1/Kalman-Ball-Tracker)
